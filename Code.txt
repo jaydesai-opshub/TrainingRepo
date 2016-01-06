@@ -1,1 +1,2 @@
-asdasdasd
+public  static void main() {
+}
